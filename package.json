@@ -2,6 +2,16 @@
   "name": "teenoi168",
   "version": "0.1.0",
   "private": true,
+  "description": "teenoi168 เว็ปพนันอันดับหนึ่งจากแดนมังกร ",
+  "keywords": [
+    "teenoi168 สมัครสมาชิก",
+    "teenoi168 ทางเข้าเล่น",
+    "teenoi168 เว็บตรงมาใหม่",
+    "teenoi168 เว็บแทงบอลออนไลน์",
+    "teenoi168 คาสิโนออนไลน์",
+    "teenoi168"
+  ],
+  "repository": "https://github.com/teenoi168/teenoi168",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -34,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "engines": {
+     "node": "14.0.0"
+   }
 }
