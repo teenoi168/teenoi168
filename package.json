@@ -1,6 +1,6 @@
 {
   "name": "teenoi168",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "teenoi168 เว็ปพนันอันดับหนึ่งจากแดนมังกร ",
   "keywords": [
     "teenoi168 สมัครสมาชิก",
@@ -51,7 +51,5 @@
       "last 1 safari version"
     ]
   },
-  "engines": {
-     "node": "14.0.0"
-   }
+  "engines": {"atom": ">=1.0.0 <2.0.0"}
 }
